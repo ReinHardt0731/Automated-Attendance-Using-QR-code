@@ -1,0 +1,8 @@
+import qrcode as qr
+import csv as cv
+import datetime
+#===Read QR code===
+
+#===Create A file with rows (Name, ID number, Date and Time) and append the input data towards the file
+
+#===Data Filter===
